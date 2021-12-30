@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning to code, automobiles, trains, photography.
 - 🌱 I’m currently learning JavaScript, React, Python
 - 💞️ I’m looking to collaborate on anything
+- 💼 Portfolio is [here](https://hitekredneck.io)
 - 📫 How to reach me find me on Telegram @mindspasm
 
 <!---
