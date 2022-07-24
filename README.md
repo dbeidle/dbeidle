@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbeidle
-- 👀 I’m interested in learning to code, automobiles, trains, photography.
+- 👀 I’m interested in writing code, automobiles, trains, and photography. I have recently started getting more into building/creating things with wood. 
 - 🌱 I’m currently learning JavaScript, React, Python
 - 💞️ I’m looking to collaborate on anything
 - 💼 Portfolio is [here](https://hitekredneck.io)
@@ -8,6 +8,9 @@
     - Telegram: @mindspasm 
     - Twitter: @lifeofdave
  
+ Codewars:
+ 
+ ![codewars rank](https://www.codewars.com/users/HiTekRedneck/badges/large)
 
 <!---
 dbeidle/dbeidle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
